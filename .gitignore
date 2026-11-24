@@ -1,0 +1,17 @@
+# news-image-20261124 r1 — local run artefacts only (unique to this round)
+__pycache__/
+*.py[cod]
+output/
+entry.png
+*.png
+!entry.png
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.tmp
+*.bak
